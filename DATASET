@@ -1,0 +1,16 @@
+from bing_image_downloader import downloader
+downloader.download("pretty sunflower",limit=30,output_dir='images',
+                    adult_filter_off=True)
+                    
+                    
+                    
+from bing_image_downloader import downloader
+downloader.download("rugby ball laether",limit=30,output_dir='images',
+                    adult_filter_off=True)
+                    
+                    
+                    
+                    
+from bing_image_downloader import downloader
+downloader.download("ice crea cone",limit=30,output_dir='images',
+                    adult_filter_off=True)
